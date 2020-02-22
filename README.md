@@ -9,6 +9,7 @@ Angular 9
 ![Preview](https://github.com/Berrones-Edwin/sbAdmin2/blob/master/src/assets/preview.png)
 
 
+##Ver Demo [Demo](https://berrones-edwin.github.io/sbAdmin2/) 
 
 ## Creditos
 ### Página del template [SbAdmin](https://startbootstrap.com/themes/sb-admin-2)
