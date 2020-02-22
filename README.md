@@ -6,7 +6,7 @@ Este es una plantilla que se adaptó en Angular
 Angular 9
 
 ## Preview
-[Ver]()
+![Preview](https://github.com/Berrones-Edwin/sbAdmin2/blob/master/src/assets/preview.png)
 
 
 
